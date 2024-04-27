@@ -9,6 +9,7 @@ Creating visualisations, Build DAX formulae to derive insights important for the
 And Implemented grouping techniques which are essential for organizing and 
 presenting the data effectively.
 
+
 ![image](https://github.com/GeogyTheAnalyst/HR-Analytics---Power-BI/assets/168290108/63eb1db0-907d-4f6f-9b1d-7a1a1fc43d06)
 
 ![image](https://github.com/GeogyTheAnalyst/HR-Analytics---Power-BI/assets/168290108/95560dd9-6068-4381-8ba5-009c3b2da7dc)
